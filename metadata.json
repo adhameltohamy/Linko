@@ -1,0 +1,6 @@
+{
+  "name": "Linko",
+  "description": "تطبيق ذكي وسريع لنقل وتبادل الملفات بين الأجهزة محلياً وبدون إنترنت بسرعات فائقة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
